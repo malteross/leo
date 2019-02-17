@@ -66,7 +66,7 @@ font-family: Georgia, serif;
   font-size: 15px;
 }
 #footer a:hover {
-  color: white;
+  color: grey;
 }
 #footer{
 	position:fixed;
